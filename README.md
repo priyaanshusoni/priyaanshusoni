@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Priyaanshu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcat-coding-gif-22257939&psig=AOvVaw1Tj08Em7QpBYnRJiohkjp9&ust=1716407254141000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiQ4LfBn4YDFQAAAAAdAAAAABAZ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw1Tj08Em7QpBYnRJiohkjp9&ust=1716407254141000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiQ4LfBn4YDFQAAAAAdAAAAABAp">
 
 - 🔭 I’m currently working on **Google Docs Clone**
 

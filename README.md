@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA , C++ , Javascript , React.js**
 
-- 📫 How to reach me **priyanshus.developerr@gmail.com**
+- 📫 How to reach me **priyanshu.developerr@gmail.com**
 
 - ⚡ Fun fact **I do Astrology ⭐**
 

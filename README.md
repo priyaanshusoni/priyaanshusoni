@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyanshu.developerr@gmail.com**
 
-- ⚡ Fun fact **I do Astrology ⭐**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

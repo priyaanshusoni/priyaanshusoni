@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **E-Commerce Websites**
+- 🔭 I’m currently working on **Codecupid**
 
 - 🌱 I’m currently learning **Next.js**
 
